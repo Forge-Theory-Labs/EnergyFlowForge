@@ -561,3 +561,9 @@ Understanding energy conservation deeply means understanding how the universe wo
 
 *"Energy doesn't disappear - it just hides really well"*
 *Part of the Forge Theory collection - Complex behaviors from simple rules*
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
